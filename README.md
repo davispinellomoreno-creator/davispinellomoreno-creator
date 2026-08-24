@@ -12,4 +12,4 @@
 🤖 Agente de IA com Arquitetura RAG — automação de fluxos via N8N, hospedado em VPS com Docker
 🧩 Sistema CRUD de Usuários — API REST completa em Java/Spring Boot
 📬 Contato
-<p> <a href="mailto:davispinellomoreno@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/(seu-usuário)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/davispinellomoreno-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p> <a href="https://linkedin.com/in/(seu-usuário)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/davispinellomoreno-creator"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
